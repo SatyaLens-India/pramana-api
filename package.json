@@ -1,0 +1,13 @@
+{
+  "name": "pramana-api",
+  "version": "1.0.0",
+  "description": "Government Data Bridge for SatyaLens India",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "license": "Apache-2.0"
+}
